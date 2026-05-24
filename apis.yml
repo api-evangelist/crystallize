@@ -150,6 +150,8 @@ common:
     url: https://crystallize.com/privacy
   - type: StatusPage
     url: https://status.crystallize.com
+  - type: LLMsTxt
+    url: https://crystallize.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kinlane@gmail.com
