@@ -15,143 +15,145 @@ created: '2026-05-23'
 modified: '2026-05-23'
 specificationVersion: '0.19'
 tags:
-  - Commerce
-  - Headless Commerce
-  - Product Information Management
-  - PIM
-  - GraphQL
-  - Catalog
-  - Search
-  - Orders
-  - Subscriptions
+- Commerce
+- Headless Commerce
+- Product Information Management
+- PIM
+- GraphQL
+- Catalog
+- Search
+- Orders
+- Subscriptions
 apis:
-  - aid: crystallize:catalogue-api
-    name: Crystallize Catalogue API
-    description: >-
-      Read-optimized GraphQL API for fetching structured product data, shapes,
-      topics, price variants, stock, and rich content for storefronts. Queries
-      are scoped to a tenant identifier and return path-based catalogue
-      content.
-    humanURL: https://crystallize.com/learn/developer-guides/catalogue-api
-    baseURL: https://api.crystallize.com
-    tags:
-      - GraphQL
-      - Catalogue
-      - Products
-      - Content
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/learn/developer-guides/catalogue-api
-      - type: Playground
-        url: https://crystallize.com/learn/developer-guides/query-explorer/graphql-playground
-  - aid: crystallize:discovery-search-api
-    name: Crystallize Discovery / Search API
-    description: >-
-      Semantic GraphQL API combining browse, search, and autocomplete in a
-      single endpoint. Supports filtering, faceting, ranking, and rich product
-      discovery experiences for storefronts.
-    humanURL: https://crystallize.com/learn/developer-guides/api-overview
-    baseURL: https://api.crystallize.com
-    tags:
-      - GraphQL
-      - Search
-      - Discovery
-      - Autocomplete
-      - Browse
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/learn/developer-guides/api-overview
-  - aid: crystallize:shop-api
-    name: Crystallize Shop API
-    description: >-
-      Edge-distributed GraphQL API for cart, promotions, and checkout flows.
-      Optimized for low-latency storefront writes during the buying journey.
-    humanURL: https://crystallize.com/docs/developer/apis/shop-api
-    baseURL: https://shop-api.crystallize.com
-    tags:
-      - GraphQL
-      - Cart
-      - Checkout
-      - Promotions
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/docs/developer/apis/shop-api
-  - aid: crystallize:order-api
-    name: Crystallize Order API
-    description: >-
-      GraphQL API for creating, reading, and managing orders linked to a
-      Crystallize tenant. Used by storefronts and back-office tooling to
-      persist completed transactions.
-    humanURL: https://crystallize.com/learn/developer-guides/order-api
-    baseURL: https://api.crystallize.com
-    tags:
-      - GraphQL
-      - Orders
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/learn/developer-guides/order-api
-  - aid: crystallize:subscription-api
-    name: Crystallize Subscription API
-    description: >-
-      GraphQL API for managing recurring orders, subscription contracts, and
-      renewal events for Crystallize-powered commerce experiences.
-    humanURL: https://crystallize.com/learn/developer-guides/api-overview
-    baseURL: https://api.crystallize.com
-    tags:
-      - GraphQL
-      - Subscriptions
-      - Recurring Billing
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/learn/developer-guides/api-overview
-  - aid: crystallize:core-pim-api
-    name: Crystallize Core / PIM API
-    description: >-
-      Read/write GraphQL API for managing the product information model:
-      shapes, items, topics, language, price variants, stock locations, and
-      tenant configuration. Powers PIM tooling and back-office automation.
-    humanURL: https://crystallize.com/docs/developer/apis
-    baseURL: https://pim.crystallize.com/graphql
-    tags:
-      - GraphQL
-      - PIM
-      - Core
-      - Shapes
-      - Tenants
-    properties:
-      - type: Documentation
-        url: https://crystallize.com/docs/developer/apis
-common:
-  - type: Website
-    url: https://crystallize.com
-  - type: Portal
-    url: https://crystallize.com/learn
+- aid: crystallize:catalogue-api
+  name: Crystallize Catalogue API
+  description: >-
+    Read-optimized GraphQL API for fetching structured product data, shapes,
+    topics, price variants, stock, and rich content for storefronts. Queries
+    are scoped to a tenant identifier and return path-based catalogue
+    content.
+  humanURL: https://crystallize.com/learn/developer-guides/catalogue-api
+  baseURL: https://api.crystallize.com
+  tags:
+  - GraphQL
+  - Catalogue
+  - Products
+  - Content
+  properties:
   - type: Documentation
-    url: https://crystallize.com/learn
-  - type: SignUp
-    url: https://crystallize.com/signup
-  - type: Login
-    url: https://app.crystallize.com
-  - type: Pricing
-    url: https://crystallize.com/plans
-  - type: Blog
-    url: https://crystallize.com/blog
-  - type: GitHub
-    url: https://github.com/CrystallizeAPI
-  - type: SDK
-    url: https://crystallize.com/learn/open-source/sdks-and-libraries/js-api-client
-  - type: CLI
-    url: https://crystallize.com/learn/open-source/cli
+    url: https://crystallize.com/learn/developer-guides/catalogue-api
   - type: Playground
     url: https://crystallize.com/learn/developer-guides/query-explorer/graphql-playground
-  - type: TermsOfService
-    url: https://crystallize.com/terms
-  - type: PrivacyPolicy
-    url: https://crystallize.com/privacy
-  - type: StatusPage
-    url: https://status.crystallize.com
-  - type: LLMsTxt
-    url: https://crystallize.com/llms.txt
+  - url: graphql/crystallize-graphql.md
+    type: GraphQL
+- aid: crystallize:discovery-search-api
+  name: Crystallize Discovery / Search API
+  description: >-
+    Semantic GraphQL API combining browse, search, and autocomplete in a
+    single endpoint. Supports filtering, faceting, ranking, and rich product
+    discovery experiences for storefronts.
+  humanURL: https://crystallize.com/learn/developer-guides/api-overview
+  baseURL: https://api.crystallize.com
+  tags:
+  - GraphQL
+  - Search
+  - Discovery
+  - Autocomplete
+  - Browse
+  properties:
+  - type: Documentation
+    url: https://crystallize.com/learn/developer-guides/api-overview
+- aid: crystallize:shop-api
+  name: Crystallize Shop API
+  description: >-
+    Edge-distributed GraphQL API for cart, promotions, and checkout flows.
+    Optimized for low-latency storefront writes during the buying journey.
+  humanURL: https://crystallize.com/docs/developer/apis/shop-api
+  baseURL: https://shop-api.crystallize.com
+  tags:
+  - GraphQL
+  - Cart
+  - Checkout
+  - Promotions
+  properties:
+  - type: Documentation
+    url: https://crystallize.com/docs/developer/apis/shop-api
+- aid: crystallize:order-api
+  name: Crystallize Order API
+  description: >-
+    GraphQL API for creating, reading, and managing orders linked to a
+    Crystallize tenant. Used by storefronts and back-office tooling to
+    persist completed transactions.
+  humanURL: https://crystallize.com/learn/developer-guides/order-api
+  baseURL: https://api.crystallize.com
+  tags:
+  - GraphQL
+  - Orders
+  properties:
+  - type: Documentation
+    url: https://crystallize.com/learn/developer-guides/order-api
+- aid: crystallize:subscription-api
+  name: Crystallize Subscription API
+  description: >-
+    GraphQL API for managing recurring orders, subscription contracts, and
+    renewal events for Crystallize-powered commerce experiences.
+  humanURL: https://crystallize.com/learn/developer-guides/api-overview
+  baseURL: https://api.crystallize.com
+  tags:
+  - GraphQL
+  - Subscriptions
+  - Recurring Billing
+  properties:
+  - type: Documentation
+    url: https://crystallize.com/learn/developer-guides/api-overview
+- aid: crystallize:core-pim-api
+  name: Crystallize Core / PIM API
+  description: >-
+    Read/write GraphQL API for managing the product information model:
+    shapes, items, topics, language, price variants, stock locations, and
+    tenant configuration. Powers PIM tooling and back-office automation.
+  humanURL: https://crystallize.com/docs/developer/apis
+  baseURL: https://pim.crystallize.com/graphql
+  tags:
+  - GraphQL
+  - PIM
+  - Core
+  - Shapes
+  - Tenants
+  properties:
+  - type: Documentation
+    url: https://crystallize.com/docs/developer/apis
+common:
+- type: Website
+  url: https://crystallize.com
+- type: Portal
+  url: https://crystallize.com/learn
+- type: Documentation
+  url: https://crystallize.com/learn
+- type: SignUp
+  url: https://crystallize.com/signup
+- type: Login
+  url: https://app.crystallize.com
+- type: Pricing
+  url: https://crystallize.com/plans
+- type: Blog
+  url: https://crystallize.com/blog
+- type: GitHub
+  url: https://github.com/CrystallizeAPI
+- type: SDK
+  url: https://crystallize.com/learn/open-source/sdks-and-libraries/js-api-client
+- type: CLI
+  url: https://crystallize.com/learn/open-source/cli
+- type: Playground
+  url: https://crystallize.com/learn/developer-guides/query-explorer/graphql-playground
+- type: TermsOfService
+  url: https://crystallize.com/terms
+- type: PrivacyPolicy
+  url: https://crystallize.com/privacy
+- type: StatusPage
+  url: https://status.crystallize.com
+- type: LLMsTxt
+  url: https://crystallize.com/llms.txt
 maintainers:
-  - FN: Kin Lane
-    email: kinlane@gmail.com
+- FN: Kin Lane
+  email: kinlane@gmail.com
