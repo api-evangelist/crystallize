@@ -130,7 +130,7 @@ common:
   url: https://crystallize.com/learn
 - type: Documentation
   url: https://crystallize.com/learn
-- type: SignUp
+- type: Signup
   url: https://crystallize.com/signup
 - type: Login
   url: https://app.crystallize.com
@@ -140,7 +140,7 @@ common:
   url: https://crystallize.com/blog
 - type: GitHub
   url: https://github.com/CrystallizeAPI
-- type: SDK
+- type: SDKs
   url: https://crystallize.com/learn/open-source/sdks-and-libraries/js-api-client
 - type: CLI
   url: https://crystallize.com/learn/open-source/cli
@@ -152,7 +152,7 @@ common:
   url: https://crystallize.com/privacy
 - type: StatusPage
   url: https://status.crystallize.com
-- type: LLMsTxt
+- type: LlmsText
   url: https://crystallize.com/llms.txt
 maintainers:
 - FN: Kin Lane
