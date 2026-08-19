@@ -1,0 +1,119 @@
+# Crystallize
+
+> A headless commerce platform Crystallize delivers product-centric eCommerce with modern GraphQL APIs, PIM/CMS, and subscription management.
+
+This file lists Crystallize’s key public pages, organized for language-model consumption.
+
+## Core
+
+- [Headless commerce for product storytellers](https://crystallize.com/): Superfast headless commerce for product-obsessed brands and agencies.
+- [Product information management (PIM)](https://crystallize.com/pim): A cutting-edge, headless product information management system (PIM) Crystallize is designed to simplify creating unique and memorable product experiences and syndicating your product and merchandising to any channel, device, screen, or retailer—fast.
+- [Headless eCommerce for forward thinking businesses](https://crystallize.com/headless-commerce): Start growing with Crystallize GraphQL-based headless eCommerce engine and experience the freedom to scale globally, optimize costs, and create unforgettable customer experiences.
+- [Subscription Commerce Crystallize](https://crystallize.com/subscription-commerce-platform): Elevate your recurring revenue streams with Crystallize subscription commerce. 
+- [Headless CMS for product storytelling](https://crystallize.com/cms-rich-content-management): Use headless content management (CMS) to deliver hyper-personalized customer journeys and innovative experiences without constraints.
+- [Pretty pricing for Crystallize](https://crystallize.com/pricing): We've broken down the traditional silos between PIM, Commerce, and CMS.
+- [Superfast GraphQL API for PIM and commerce](https://crystallize.com/api): Crystallize is a true headless SaaS service to power your modern eCommerce experiences with product storytelling.
+- [Page Speed ROI Calculator](https://crystallize.com/page-speed-roi-calculator): Check the revenue faster pages may generate for your online store.
+- [About Crystallize](https://crystallize.com/about#contact): Crystallize team, internet craftsmanship and contact.
+- [Jobs at Crystallize](https://crystallize.com/careers)
+- [Crystallize Partner Network](https://crystallize.com/partner)
+- [Crystallize Service Terms and Agreement](https://crystallize.com/legal-stuff)
+
+## Frontend Framework Integrations
+
+- [Overview of modern frontend framework options.](https://crystallize.com/frontend): We got your back(end)! Crystallize is a flexible backend solution for modern composable commerce that seamlessly integrates with your preferred frontend framework.
+- [https://crystallize.com/frontend/nextjs-ecommerce](https://crystallize.com/frontend/nextjs-ecommerce): Next.js eCommerce guide.  
+- [Remix Run eCommerce for Frontend Developers](https://crystallize.com/frontend/remix-run-ecommerce): Utilize Remix eCommerce Storefront boilerplate powered by Crystallize for your modern tech stack online store.
+- [High-performance store with Astro eCommerce ](https://crystallize.com/frontend/astro-ecommerce): Discover how to create high-performance eCommerce storefronts using Astro and Crystallize. Leverage our open-source boilerplates and templates to accelerate your development process.
+- [High performant Svelte commerce starter](https://crystallize.com/frontend/svelte-ecommerce): Svelte and SvelteKit offer a fresh perspective on web development, emphasizing efficiency, speed, and developer experience, all perfect for building seamless e-commerce experiences.
+- [Build high-performance React e-commerce with Crystallize](https://crystallize.com/frontend/react-ecommerce): Build tailor-made React eCommerce experiences with Crystallize super fast GraphQL API service.
+- … _(all other `/frontend/...` URLs)_
+
+## Platform Comparison
+
+- [Compare Crystallize](https://crystallize.com/compare): How does Crystallize stack up against other popular platforms?
+- [Crystallize vs Magento](https://crystallize.com/compare/commerce/crystallize-vs-magento)
+- [Shopify vs Magento](https://crystallize.com/compare/commerce/shopify-vs-magento)
+- [Crystallize vs Pimcore](https://crystallize.com/compare/pim/crystallize-vs-pimcore)
+- [Pimcore vs Akeneo](https://crystallize.com/compare/pim/pimcore-vs-akeneo)
+- [Crystallize vs Strapi](https://crystallize.com/compare/cms/crystallize-vs-strapi)
+- [Contentful vs Storyblok](https://crystallize.com/compare/cms/contentful-vs-storyblok)
+
+- … _(all other `/compare/...` URLs)_ 
+
+## Docs & Learning
+
+- [Resources & Guides to get you started](https://crystallize.com/learn): Main learning hub.
+- [User guide overview](https://crystallize.com/learn/user-guides)
+- [Developer Guides](https://crystallize.com/learn/developer-guides)
+- [Concepts in Crystallize](https://crystallize.com/learn/concepts)
+- [Crystallize Open-Source Resources](https://crystallize.com/learn/open-source)
+- [Conversion Rate Optimization (CRO) Checklist](https://crystallize.com/learn/best-practices/seo/cro-checklist)
+- [API Endpoints](https://crystallize.com/learn/developer-guides/api-overview/api-endpoints)
+- [Shop API](https://crystallize.com/learn/developer-guides/shop-api)
+- [Physical Product](https://crystallize.com/learn/concepts/ecommerce/physical-product)
+- [Next.js eCommerce Template](https://crystallize.com/learn/open-source/boilerplates/nextjs-ecommerce-template)
+- [Product Configurator Boilerplate](https://crystallize.com/learn/open-source/boilerplates/product-configurator)
+- [Next.js Subscription Commerce Starter](https://crystallize.com/learn/open-source/boilerplates/nextjs-subscription-commerce-starter)
+- … _(all other `/learn/...` URLs)_  
+
+## Blog
+
+- [Web Development](https://crystallize.com/blog): Blog home page.
+- [Crystallize case studies](https://crystallize.com/blog/case-studies)
+- [Headless Commerce](https://crystallize.com/blog/headless-commerce)
+- [Headless PIM](https://crystallize.com/blog/headless-pim)
+- [Headless Architecture](https://crystallize.com/blog/headless-architecture)
+- [What Is Composable Commerce?](https://crystallize.com/blog/composable-commerce)
+- [What Is a Headless CMS?](https://crystallize.com/blog/what-is-a-headless-cms)
+- [Headless Tech Stack](https://crystallize.com/blog/headless-tech-stack)
+- [Headless eCommerce Statistics](https://crystallize.com/blog/headless-commerce-statistics)
+- [PIM Statistics](https://crystallize.com/blog/pim-statistics)
+- [What is PIM?](https://crystallize.com/blog/what-is-pim)
+- [Top 8 PIM Platforms](https://crystallize.com/blog/pim-platforms)
+- [10 Best e-commerce Platforms](https://crystallize.com/blog/ecommerce-platforms)
+- [Best Headless CMS for E-Commerce](https://crystallize.com/blog/best-cms-for-headless-ecommerce)
+- [Frontend Performance Measuring, KPIs, and Monitoring](https://crystallize.com/blog/frontend-performance-measuring-and-kpis)
+- [Frontend Performance Checklist](https://crystallize.com/blog/frontend-performance-checklist)
+- [React-based Static Site Generators](https://crystallize.com/blog/react-static-site-generators)
+- [React srcset for Responsive Images](https://crystallize.com/blog/react-srcset-for-responsive-images)
+- [AVIF vs. WebP](https://crystallize.com/blog/avif-vs-webp)
+- [Keeping Websites Fast when Loading Google Tag Manager](https://crystallize.com/blog/fast-loading-google-tag-manager)
+- [Web Rendering Explained](https://crystallize.com/blog/web-rendering)
+- [Advanced GraphQL API Usage](https://crystallize.com/blog/advanced-graphql-api-usage)
+- [GraphQL for eCommerce](https://crystallize.com/blog/benefits-of-using-graphql)
+- [Best Static Website Hosting Platforms](https://crystallize.com/blog/static-hosting)
+- [Comprehensive Guide to Modern eCommerce Web Development](https://crystallize.com/blog/ecommerce-web-development)
+- [The Ultimate Guide to eCommerce Business Models](https://crystallize.com/blog/ecommerce-business-model)
+- [Authentication vs. Authorization](https://crystallize.com/blog/authentication-vs-authorization)
+- [eCommerce SEO Guide](https://crystallize.com/blog/ecommerce-seo-guide)
+- [eCommerce SEO Checklist](https://crystallize.com/blog/ecommerce-seo-checklist)
+- [SEO for eCommerce Product Pages](https://crystallize.com/blog/product-page-seo)
+- [Optimizing Product Information for SEO with Crystallize](https://crystallize.com/blog/optimizing-product-information-for-seo)
+- [Local SEO for eCommerce](https://crystallize.com/blog/local-seo-ecommerce)
+- [Content Modeling](https://crystallize.com/blog/content-modeling-101)
+- [Subscription eCommerce: The Ultimate Guide](https://crystallize.com/blog/subscription-ecommerce-guide)
+
+- … _(all other `/blog/...` URLs)_  
+
+## FAQ
+
+- [FAQ and answers portal](https://crystallize.com/answers)
+- [Compiling Vs. Transpiling](https://crystallize.com/answers/tech-dev/compiling-vs-transpiling)
+- [What Are Promotional Codes?](https://crystallize.com/answers/ecommerce-essentials/what-are-promotional-codes)
+- [How to Test Your Website Speed in Google?](https://crystallize.com/answers/marketing-stuff/how-to-test-your-website-speed-in-google)
+- [Advantages and Disadvantages of Static Website](https://crystallize.com/answers/tech-dev/advantages-and-disadvantages-of-static)
+- [What Are Google Tag Manager Security Risks?](https://crystallize.com/answers/tech-dev/what-are-gtm-security-risks)
+- [What Is Headless Authentication?](https://crystallize.com/answers/tech-dev/what-is-headless-authentication)
+- [What Is Checkout Process in eCommerce?](https://crystallize.com/answers/tech-dev/what-is-checkout-process)
+- [What are the Best Google Tag Manager (GTM) Alternatives?](https://crystallize.com/answers/tech-dev/what-are-gtm-alternatives)
+- … _(all other `/answers/...` URLs)_  
+
+## Comics
+
+- [Crystallize Dev Comics](https://crystallize.com/comics) 
+- … _(all other `/comics/...` URLs)_ 
+
+## Optional
+
+- [Crystallize Sitemap (XML)](https://crystallize.com/sitemap.xml): Raw XML sitemap listing every page.
