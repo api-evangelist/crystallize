@@ -34,6 +34,16 @@ tags:
 - GraphQL
 - Catalog
 - Search
+- Order
+- Subscription
+tags_raw:
+- Commerce
+- Headless Commerce
+- Product Information Management
+- PIM
+- GraphQL
+- Catalog
+- Search
 - Orders
 - Subscriptions
 apis:
@@ -47,6 +57,11 @@ apis:
   humanURL: https://crystallize.com/learn/developer-guides/catalogue-api
   baseURL: https://api.crystallize.com
   tags:
+  - GraphQL
+  - Catalogue
+  - Product
+  - Content
+  tags_raw:
   - GraphQL
   - Catalogue
   - Products
@@ -100,6 +115,9 @@ apis:
   baseURL: https://api.crystallize.com
   tags:
   - GraphQL
+  - Order
+  tags_raw:
+  - GraphQL
   - Orders
   properties:
   - type: Documentation
@@ -112,6 +130,10 @@ apis:
   humanURL: https://crystallize.com/learn/developer-guides/api-overview
   baseURL: https://api.crystallize.com
   tags:
+  - GraphQL
+  - Subscription
+  - Recurring Billing
+  tags_raw:
   - GraphQL
   - Subscriptions
   - Recurring Billing
