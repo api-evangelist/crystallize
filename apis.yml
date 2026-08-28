@@ -8,6 +8,17 @@ description: >-
   Shop API for cart and checkout, an Order/Subscription API, and a Core/PIM
   API for managing shapes, items, and tenants.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
