@@ -41,7 +41,6 @@ tags:
 - Commerce
 - Headless Commerce
 - Product Information Management
-- PIM
 - GraphQL
 - Catalog
 - Search
@@ -160,6 +159,12 @@ apis:
   humanURL: https://crystallize.com/docs/developer/apis
   baseURL: https://pim.crystallize.com/graphql
   tags:
+  - GraphQL
+  - Product Information Management
+  - Core
+  - Shapes
+  - Tenants
+  tags_raw:
   - GraphQL
   - PIM
   - Core
