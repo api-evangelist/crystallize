@@ -1,0 +1,33 @@
+# Front Door AI Index — crystallize — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: crystallize
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: crystallize.com
+  final_host: crystallize.com
+  ownership: own
+  owner: crystallize
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 39
+  host_score: 39
+  density: 24.76
+  words: 1575
+  tiers:
+    agentic: 8
+    core: 22
+    model: 9
+  ambiguous: 8
+  top_terms:
+    AI: 20
+    agent: 8
+    MCP: 4
+    ChatGPT: 3
+    Claude: 3
+    Gemini: 3
+    AI agent: 2
+    LLMs: 2
+    agentic: 2
