@@ -2,11 +2,14 @@
   "repo": "crystallize",
   "feeds": [
     {
-      "source": "https://crystallize.com/plans",
-      "error": "HTTPError"
+      "source": "https://crystallize.com/blog",
+      "feed_url": "https://crystallize.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 13,
   "agent_pulled": "2026-07-04",
   "feed_nature": "vendor-blog",
