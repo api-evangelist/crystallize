@@ -1,4 +1,4 @@
-# crystallize
+# Crystallize
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Crystallize — headless product information + commerce
+Crystallize is a headless product information management (PIM) and commerce platform built around a set of GraphQL APIs. It separates product storytelling from the commerce engine, exposing a Catalogue API for reading structured product data, a Discovery (Search) API for browse and search, a Shop API for cart and checkout, an Order/Subscription API, and a Core/PIM API for managing shapes, items, and tenants.
+
+**Areas:** Commerce · Headless Commerce · Product Information Management · GraphQL · Catalog · Search · Order · Subscription
+
+## Crystallize on APIs.io
+
+Everything profiled for Crystallize is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/crystallize/](https://apis.io/providers/crystallize/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Crystallize Catalogue API](https://apis.io/apis/crystallize/catalogue-api/) — Read-optimized GraphQL API for fetching structured product data, shapes, topics, price variants, stock, and rich content for storefronts. Queries are scoped…
+- [Crystallize Discovery / Search API](https://apis.io/apis/crystallize/discovery-search-api/) — Semantic GraphQL API combining browse, search, and autocomplete in a single endpoint. Supports filtering, faceting, ranking, and rich product discovery…
+- [Crystallize Shop API](https://apis.io/apis/crystallize/shop-api/) — Edge-distributed GraphQL API for cart, promotions, and checkout flows. Optimized for low-latency storefront writes during the buying journey.
+- [Crystallize Order API](https://apis.io/apis/crystallize/order-api/) — GraphQL API for creating, reading, and managing orders linked to a Crystallize tenant. Used by storefronts and back-office tooling to persist completed…
+- [Crystallize Subscription API](https://apis.io/apis/crystallize/subscription-api/) — GraphQL API for managing recurring orders, subscription contracts, and renewal events for Crystallize-powered commerce experiences.
+- [Crystallize Core / PIM API](https://apis.io/apis/crystallize/core-pim-api/) — Read/write GraphQL API for managing the product information model: shapes, items, topics, language, price variants, stock locations, and tenant…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### GraphQL (1)
+
+GraphQL schemas.
+
+- [Crystallize GraphQL API](https://apis.io/graphqls/crystallize/crystallize-graphql/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Crystallize Domain Security](https://apis.io/security/crystallize/crystallize-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Crystallize Plans Pricing](https://apis.io/plans/crystallize/crystallize-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Crystallize Rate Limits](https://apis.io/rate-limits/crystallize/crystallize-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Crystallize Finops](https://apis.io/finops/crystallize/crystallize-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://crystallize.com)
+- [Documentation](https://crystallize.com/learn)
+- [Pricing](https://crystallize.com/plans)
+- [Blog](https://crystallize.com/blog)
+- [Terms of service](https://crystallize.com/terms)
+- [Privacy policy](https://crystallize.com/privacy)
+- [Status](https://status.crystallize.com)
+
+## API Evangelist rating
+
+**Kin Score 18.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 32.1 |
+| Access clarity | 11.8 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/crystallize/](https://apis.io/providers/crystallize/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Crystallize: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/crystallize/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
